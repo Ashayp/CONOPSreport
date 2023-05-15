@@ -1,7 +1,7 @@
 # CONOPSreport
 
 Inventory Management System for Retail Stores
-Team Members
+\n Team Members
 1. Ashay Pable : I am a Masters in Software Engineering student. I have worked as a software
 developer for 4 years in India with a wide range of experience from Artificial Intelligence to
 3D Graphics development. I have a keen interest in automation powered by AI and research
